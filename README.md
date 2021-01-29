@@ -20,6 +20,6 @@ Hola !! Am Diya Here 👋
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" width="50">
 <img align="left" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
 <br />
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Divya5504&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Divya5504&theme=tokyonight)
+(https://github-readme-stats.vercel.app/api?username=Divya5504&show_icons=true&theme=tokyonight)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=Divya5504&theme=tokyonight)
   

@@ -20,6 +20,10 @@ Hola !! Am Diya Here 👋
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" width="50">
 <img align="left" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
 <br />
+
+
+
+
 ## 💻 Some stats
 
 <details open>
@@ -37,6 +41,8 @@ Hola !! Am Diya Here 👋
 <br>
 
 <!--START_SECTION:waka-->
+
+
 **I'm an Early 🐤** 
 
 ```text

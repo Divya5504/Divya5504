@@ -43,7 +43,7 @@ Hola !! Am Diya Here 👋
 
 
 
-## 💻 MY STACKS..
+## 💻 Things I Know ..
 
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
@@ -99,7 +99,7 @@ django                 0 secs                   ░░░░░░░░░░�
 
 ```
 
-**I Mostly Code in Jupyter Notebook sublinetext and vs code ** 
+**I Mostly Code in Jupyter Notebook Atom sublimetext and vs code ** 
 
 ```text
 Jupyter Notebook         16 repos            ███████████████░░░░░░░░░░   62.5% 

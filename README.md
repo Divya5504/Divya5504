@@ -58,7 +58,7 @@ Hola !! Am Diya Here 👋
 
 
 
-                                                                        ## 💻 Things I Know ..
+                                                                       
 
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
@@ -100,7 +100,7 @@ Sunday       10 commits    ████░░░░░░░░░░░░░�
 ```
 
 
-📊 **I Spent My Time On Mostly on React ** 
+📊 **I Spent My Time On Mostly on React and Python ** 
 
 ```text
 💬 Programming Languages: 

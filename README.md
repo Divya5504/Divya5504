@@ -2,12 +2,12 @@ Hola !! Am Diya Here 👋
 
 
 
-- 🔭 I’m currently working on ... REACT
-- 🌱 I’m currently learning ...MERN
-- 👯 I’m looking to collaborate on ...Linkdin so that i get recognised and get a job :)
+- 🔭 I’m currently working on ... Boomi
+- 🌱 I’m learning and Exploring new ideas
+- 👯 I’m looking to collaborate on ... new ventures so that i get recognised and get a bestoutcome in my carrer:)
 - 🤔 I’m looking for help with ...REACT,MERN 
-- 💬 Ask me about ...PYTHON,DJANGO,FLASK,MongoDB,Node js,Express js.
-- 📫 How to reach me: ...https://www.linkedin.com/in/divya-tulasi-b198bb162/
+- 💬 Ask me about ...BOOMI 
+- 📫 How to reach me: divyatulasi20@gmail.com
 - 😄 Pronouns: ...She/Her
 - ⚡ Fun fact: ...Super COOL!!Silent Learner with Lots of paticence :) 
 
@@ -19,6 +19,8 @@ Hola !! Am Diya Here 👋
 <img align="left" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50">
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" width="50">
 <img align="left" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
+
+<img align="left" src="https://github.com/OfficialBoomi" width="50">
 <br />
 
 
@@ -99,33 +101,6 @@ Sunday       10 commits    ████░░░░░░░░░░░░░�
 
 ```
 
-
-📊 **I Spent My Time On Mostly on React and Python ** 
-
-```text
-💬 Programming Languages: 
-React                        24 mins          ██████████████████████░░░   90.77% 
-Python                   1 min                █░░░░░░░░░░░░░░░░░░░░░░░░   6.74% 
-javascript                      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   1.3% 
-html                   1 min                  █░░░░░░░░░░░░░░░░░░░░░░░░   6.74%
-css                   1 min                   █░░░░░░░░░░░░░░░░░░░░░░░░   6.74%
-flask                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.83% 
-django                 0 secs                   ░░░░░░░░░░░░░░░░░░░░░░░░░   0.35%
-
-```
-
-**I Mostly Code in Jupyter Notebook Atom sublimetext and vs code ** 
-
-```text
-Jupyter Notebook         16 repos            ███████████████░░░░░░░░░░   62.5% 
-Html                     78  repos            ███████████░░░░░░░░░░   62.5%
-vs code                  11 repos            ███████████████░░░░░░░░░░   62.5%
-C++                      15 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   12.25% 
-CSS                      26 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   23.25% 
-JavaScript               14 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   17.25% 
-C                        02 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   3.25%
-
-```
 
 
 

@@ -5,7 +5,7 @@ Hola !! Am Diya Here 👋
 - 🔭 I’m currently working on ... Boomi
 - 🌱 I’m learning and Exploring new ideas
 - 👯 I’m looking to collaborate on ... new ventures so that i get recognised and get a bestoutcome in my carrer:)
-- 🤔 I’m looking for help with ...REACT,MERN 
+- 🤔 I’m looking for help with ...BOOMI CICD,BOOMI DOCKER,BOOMI KUBERNATES,BOOMI JENKINS
 - 💬 Ask me about ...BOOMI 
 - 📫 How to reach me: divyatulasi20@gmail.com
 - 😄 Pronouns: ...She/Her
@@ -20,7 +20,7 @@ Hola !! Am Diya Here 👋
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" width="50">
 <img align="left" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50">
 
-<img align="left" src="https://github.com/OfficialBoomi" width="50">
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/iPass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" width="50">
 <br />
 
 

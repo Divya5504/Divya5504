@@ -2,7 +2,7 @@ Hola !! Am Diya Here 👋
 
 
 
-- 🔭 I’m currently working on ... Boomi
+- 🔭 I’m currently working on ... Devops Boomi
 - 🌱 I’m learning and Exploring new ideas
 - 👯 I’m looking to collaborate on ... new ventures so that i get recognised and get a bestoutcome in my carrer:)
 - 🤔 I’m looking for help with ...BOOMI CICD,BOOMI DOCKER,BOOMI KUBERNATES,BOOMI JENKINS

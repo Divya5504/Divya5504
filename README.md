@@ -2,10 +2,10 @@ Hola !! Am Diya Here 👋
 
 
 
-- 🔭 I’m currently working on ... Devops Boomi
+- 🔭 I’m currently working on ... AWS Devops 
 - 🌱 I’m learning and Exploring new ideas
 - 👯 I’m looking to collaborate on ... new ventures so that i get recognised and get a bestoutcome in my carrer:)
-- 🤔 I’m looking for help with ...BOOMI CICD,BOOMI DOCKER,BOOMI KUBERNATES,BOOMI JENKINS
+- 🤔 I’m looking for help with ...AWS DEVOPS,CICD.
 - 💬 Ask me about ...BOOMI 
 - 📫 How to reach me: divyatulasi20@gmail.com
 - 😄 Pronouns: ...She/Her
